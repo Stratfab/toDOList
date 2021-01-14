@@ -8,12 +8,20 @@ body{
 }
 
 h1{
+    font-size: 3em;
     display: flex;
     justify-content: center;
     font-style: bold;
     color:white;
 }
 
+input{
+  padding: 1em;
+  border-radius: 15px;
+  border-style: solid;
+  
+
+}
 
 
 .container{
@@ -31,7 +39,7 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 10em;
+    width: 15em;
     background-color: darkgray;
     border-radius: 1em;
     margin-left: -40px;
